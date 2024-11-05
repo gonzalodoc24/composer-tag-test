@@ -1,0 +1,10 @@
+{
+    "name": "my-vendor/composer-tag-example",
+    "authors": [
+        {
+            "name": "Gonzalo Lopez",
+            "email": "gonzalo.lopez@doc24.com.ar"
+        }
+    ],
+    "require": {}
+}
